@@ -78,8 +78,6 @@ def process(user):
                 print("hell nah")
 
 while log_reg:
-
-    print(phone_dict)
     print("Для выхода из программы введите 'q'")
     user_log_or_reg = input("Войти в аккаунт или зарегистрировать новый? (l/r): ")
 
